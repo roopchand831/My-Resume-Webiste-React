@@ -1,23 +1,23 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "e6ac5ec3c08add19301ba195b7615312",
+    "revision": "db647eedcc07457c9d077ed40f60c53f",
     "url": "/My-Resume-Webiste-React/index.html"
   },
   {
-    "revision": "a1afadc9ada55aa06e5d",
+    "revision": "8dab7b9776ed437f26cc",
     "url": "/My-Resume-Webiste-React/static/css/main.9af5024b.chunk.css"
   },
   {
-    "revision": "78fd3583f18410eddae4",
-    "url": "/My-Resume-Webiste-React/static/js/2.d91cdc32.chunk.js"
+    "revision": "1bfb862e492309e1b934",
+    "url": "/My-Resume-Webiste-React/static/js/2.918cda22.chunk.js"
   },
   {
     "revision": "c64c486544348f10a6d6c716950bc223",
-    "url": "/My-Resume-Webiste-React/static/js/2.d91cdc32.chunk.js.LICENSE.txt"
+    "url": "/My-Resume-Webiste-React/static/js/2.918cda22.chunk.js.LICENSE.txt"
   },
   {
-    "revision": "a1afadc9ada55aa06e5d",
-    "url": "/My-Resume-Webiste-React/static/js/main.a0158fa0.chunk.js"
+    "revision": "8dab7b9776ed437f26cc",
+    "url": "/My-Resume-Webiste-React/static/js/main.e497439c.chunk.js"
   },
   {
     "revision": "39147e306757f4b4ca2f",

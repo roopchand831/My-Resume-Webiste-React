@@ -1,17 +1,17 @@
 {
   "files": {
     "main.css": "/My-Resume-Webiste-React/static/css/main.9af5024b.chunk.css",
-    "main.js": "/My-Resume-Webiste-React/static/js/main.a0158fa0.chunk.js",
-    "main.js.map": "/My-Resume-Webiste-React/static/js/main.a0158fa0.chunk.js.map",
+    "main.js": "/My-Resume-Webiste-React/static/js/main.e497439c.chunk.js",
+    "main.js.map": "/My-Resume-Webiste-React/static/js/main.e497439c.chunk.js.map",
     "runtime-main.js": "/My-Resume-Webiste-React/static/js/runtime-main.a44d1f87.js",
     "runtime-main.js.map": "/My-Resume-Webiste-React/static/js/runtime-main.a44d1f87.js.map",
-    "static/js/2.d91cdc32.chunk.js": "/My-Resume-Webiste-React/static/js/2.d91cdc32.chunk.js",
-    "static/js/2.d91cdc32.chunk.js.map": "/My-Resume-Webiste-React/static/js/2.d91cdc32.chunk.js.map",
+    "static/js/2.918cda22.chunk.js": "/My-Resume-Webiste-React/static/js/2.918cda22.chunk.js",
+    "static/js/2.918cda22.chunk.js.map": "/My-Resume-Webiste-React/static/js/2.918cda22.chunk.js.map",
     "index.html": "/My-Resume-Webiste-React/index.html",
-    "precache-manifest.839efc781d3a99970134722e44bc8359.js": "/My-Resume-Webiste-React/precache-manifest.839efc781d3a99970134722e44bc8359.js",
+    "precache-manifest.c245a029ac34e803c2b928eb6d4c490b.js": "/My-Resume-Webiste-React/precache-manifest.c245a029ac34e803c2b928eb6d4c490b.js",
     "service-worker.js": "/My-Resume-Webiste-React/service-worker.js",
     "static/css/main.9af5024b.chunk.css.map": "/My-Resume-Webiste-React/static/css/main.9af5024b.chunk.css.map",
-    "static/js/2.d91cdc32.chunk.js.LICENSE.txt": "/My-Resume-Webiste-React/static/js/2.d91cdc32.chunk.js.LICENSE.txt",
+    "static/js/2.918cda22.chunk.js.LICENSE.txt": "/My-Resume-Webiste-React/static/js/2.918cda22.chunk.js.LICENSE.txt",
     "static/media/contact.jpg": "/My-Resume-Webiste-React/static/media/contact.2bb633c5.jpg",
     "static/media/github-logo.png": "/My-Resume-Webiste-React/static/media/github-logo.9d98681e.png",
     "static/media/Content.css": "/My-Resume-Webiste-React/static/media/homePage.dcf0373a.jpg",
@@ -19,8 +19,8 @@
   },
   "entrypoints": [
     "static/js/runtime-main.a44d1f87.js",
-    "static/js/2.d91cdc32.chunk.js",
+    "static/js/2.918cda22.chunk.js",
     "static/css/main.9af5024b.chunk.css",
-    "static/js/main.a0158fa0.chunk.js"
+    "static/js/main.e497439c.chunk.js"
   ]
 }
